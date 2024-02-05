@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+# local files
+
+items.csv
+kaka.csv
+
 __pycache__/
 *.py[cod]
 *$py.class
